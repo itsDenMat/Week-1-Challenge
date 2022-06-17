@@ -26,8 +26,10 @@ Original title element was not descriptive of the webpage with a vague title of 
 <br />
 
 ### Using semantic HTML elements 
-Certain div elements were replaced with semantic HTML elements to provide more structure of understanding each parts of the codes.
+Div tags were replaced with semantic HTML elements (section tags) to provide more structure of understanding each parts of the codes.
+<br />
 
+#### EXAMPLE:
 
 >__HEADER__
 * Original
